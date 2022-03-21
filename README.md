@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Z4HI
-- 👀 I’m interested in ... Data Structures
+- 👀 I’m interested in ... Data Structures, app development
 - 🌱 I’m currently learning ... Java,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... twitter Byrie_
