@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Z4HI
-- 👀 I’m interested in ... Data Structures, app development
-- 🌱 I’m currently learning ... Java,Python
-- 💞️ I’m looking to collaborate on ...
+- Im studying full-stack web applications
+- im learning HTML,CSS, JS and MERN stack.
 - 📫 How to reach me ... twitter Byrie_
 
 <!---
